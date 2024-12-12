@@ -31,4 +31,4 @@ The repository includes:
 ## Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Titanic-Survival-Analysis.git
+   git clone https://caspergeorge07/Titanic-Survival-Analysis.git
